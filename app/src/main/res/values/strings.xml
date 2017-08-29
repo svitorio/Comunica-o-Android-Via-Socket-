@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Search Words</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="words">Words</string>
+    <string name="word">Word</string>
+    <string name="readword">Write Word</string>
+    <string name="Smartphones">Smarthphones</string>
+    <string name="Registers">Registers</string>
+    <string name="Search">Search</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
